@@ -1,1 +1,2 @@
-# bot-kur-gols
+\\ASTAGA/
+if i love you

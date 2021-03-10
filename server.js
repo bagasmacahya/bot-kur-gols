@@ -64,7 +64,7 @@ client.on("message", async message => {
                     if (message.content === "Sehat") message.channel.send(`${message.author.toString()}sehat terus ya`);
   //______________________________________________________________________________________________________________________________________________________________________
 // PEMULAH PERINTAH
-  const prefix = "/";
+  const prefix = "prefix";
   if (!message.content.startsWith(prefix)) return null;
   if (!message.member)
     message.member = await message.guild.fetchMember(message);

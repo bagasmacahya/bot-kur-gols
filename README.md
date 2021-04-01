@@ -1,2 +1,1 @@
-\\ASTAGA/
-if i love you
+SELAMAT MENCOBA
